@@ -1,0 +1,184 @@
+[
+    {
+        "pickName": "A_top",
+        "depth": {
+            "top": {
+                "md": 3077,
+                "tvd": 3036.3351274231445
+            },
+            "bottom": {
+                "md": 3083,
+                "tvd": 3040.766892930473
+            }
+        }
+    },
+    {
+        "pickName": "undifferentiated",
+        "depth": {
+            "top": {
+                "md": 3083,
+                "tvd": 3040.766892930473
+            },
+            "bottom": {
+                "md": 3122,
+                "tvd": 3068.3998314536675
+            }
+        }
+    },
+    {
+        "pickName": "B_top",
+        "depth": {
+            "top": {
+                "md": 3122,
+                "tvd": 3068.3998314536675
+            },
+            "bottom": {
+                "md": 3137,
+                "tvd": 3078.023694691695
+            }
+        }
+    },
+    {
+        "pickName": "undifferentiated",
+        "depth": {
+            "top": {
+                "md": 3137,
+                "tvd": 3078.023694691695
+            },
+            "bottom": {
+                "md": 3173,
+                "tvd": 3099.022583258775
+            }
+        }
+    },
+    {
+        "pickName": "C_top",
+        "depth": {
+            "top": {
+                "md": 3173,
+                "tvd": 3099.022583258775
+            },
+            "bottom": {
+                "md": 3186,
+                "tvd": 3106.044101481335
+            }
+        }
+    },
+    {
+        "pickName": "D_top",
+        "depth": {
+            "top": {
+                "md": 3186,
+                "tvd": 3106.044101481335
+            },
+            "bottom": {
+                "md": 3179,
+                "tvd": 3102.300798508222
+            }
+        }
+    },
+    {
+        "pickName": "undifferentiated",
+        "depth": {
+            "top": {
+                "md": 3179,
+                "tvd": 3102.300798508222
+            },
+            "bottom": {
+                "md": 3206,
+                "tvd": 3116.2409051168306
+            }
+        }
+    },
+    {
+        "pickName": "undifferentiated",
+        "depth": {
+            "top": {
+                "md": 3206,
+                "tvd": 3116.2409051168306
+            },
+            "bottom": {
+                "md": 3228,
+                "tvd": 3126.5804113104914
+            }
+        }
+    },
+    {
+        "pickName": "E_top",
+        "depth": {
+            "top": {
+                "md": 3228,
+                "tvd": 3126.5804113104914
+            },
+            "bottom": {
+                "md": 3283,
+                "tvd": 3147.5088841489373
+            }
+        }
+    },
+    {
+        "pickName": "undifferentiated",
+        "depth": {
+            "top": {
+                "md": 3283,
+                "tvd": 3147.5088841489373
+            },
+            "bottom": {
+                "md": 3377,
+                "tvd": 3167.723672153068
+            }
+        }
+    },
+    {
+        "pickName": "H_top",
+        "depth": {
+            "top": {
+                "md": 3377,
+                "tvd": 3167.723672153068
+            },
+            "bottom": {
+                "md": 3536,
+                "tvd": 3178.7876432919256
+            }
+        }
+    },
+    {
+        "pickName": "undifferentiated",
+        "depth": {
+            "top": {
+                "md": 3536,
+                "tvd": 3178.7876432919256
+            },
+            "bottom": {
+                "md": 3567,
+                "tvd": 3180.1622041089995
+            }
+        }
+    },
+    {
+        "pickName": "undifferentiated",
+        "depth": {
+            "top": {
+                "md": 3567,
+                "tvd": 3180.1622041089995
+            },
+            "bottom": {
+                "md": 3591,
+                "tvd": 3181.0354608635635
+            }
+        }
+    },
+    {
+        "pickName": "I_top",
+        "depth": {
+            "top": {
+                "md": 3591,
+                "tvd": 3181.0354608635635
+            },
+            "bottom": {
+                "md": 3646,
+                "tvd": 3182.696218810957
+            }
+        }
+    }
+]
